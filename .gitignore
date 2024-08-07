@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+fontawesome_svgs/
+
+venv/*
